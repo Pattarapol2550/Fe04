@@ -1,0 +1,30 @@
+.banner{
+    display: block;
+    padding: 5px;
+    margin: 0;
+    width: 100vw;
+    height: 25vw;
+    margin-left:calc(-50vw + 50%);
+    position: relative;
+   
+}
+
+.bannerText{
+    position: relative;
+    top: 100px;
+    z-index: 20;
+    text-align: center;
+    
+}
+.text{
+    font-size:36px;
+    font-weight:700;
+    color: #ffd700;
+text-shadow: 0 2px 6px rgba(0,0,0,0.7);
+}
+
+.subtext{
+    font-size:18px;
+    color: #ffffff;
+text-shadow:0 2px 8px rgba(0,0,0,0.6);
+}
